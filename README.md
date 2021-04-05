@@ -1,4 +1,4 @@
-# QR Easy - QR & Barcode Scanner's Privacy Policy
+#QR & Barcode Scanner's Privacy Policy
 ----
 
 I (QrEasy) built the QR & Barcode Scanner app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
